@@ -1,6 +1,6 @@
 # DDos-Attack 
 
-### Dwonload&instalaçao
+### Download&instalaçao
 
 ### git clone https://github.com/HB-117/ddos-brabo.git
 
