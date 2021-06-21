@@ -2,7 +2,7 @@
 
 ### Dwonload&instalaçao
 
-### git clone https://github.com/Ha3MrX/DDos-Attack
+### git clone https://github.com/HB-117/ddos-brabo.git
 
 ### cd DDos-Attack
 
